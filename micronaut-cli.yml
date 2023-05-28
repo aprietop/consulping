@@ -1,0 +1,6 @@
+applicationType: function
+defaultPackage: com.base
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, arm, aws-cdk, aws-codebuild-workflow-ci, aws-lambda, aws-lambda-custom-runtime, aws-lambda-handler-function, aws-lambda-scheduled-event, aws-v2-sdk, gradle, http-client, jackson-databind, java, junit, logback, micronaut-build, readme, shade, yaml]
